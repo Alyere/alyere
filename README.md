@@ -1,4 +1,4 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+#  Oiee Seja bem-vindo(a) ao meu GitHub!
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9Zp1775i7W3U/giphy.gif" width="280" alt="Estudando Ciência da Computação" />
